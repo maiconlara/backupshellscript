@@ -1,5 +1,6 @@
 # backupshellscript
 Projeto de Backup - Administração de Sistemas
+
 TUTORIAL DE USO
 Para inicializar o uso do Script de Backup, será necessário dar as permissões necessárias para o arquivo .sh,
 para isso será necessário escrever o seguinte comando no terminal: chmod a+x backup.sh, a partir 
